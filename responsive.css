@@ -1,0 +1,52 @@
+@media (max-width:850px){
+    .sekil2{
+        display: none;
+    }
+    p{
+        font-size:13px ;
+    }
+    .sekil1{
+       
+        height: 150px;
+        width: 250px;
+    }   
+}
+@media (max-width:633px){
+    .hisse1{
+        display: block;
+    }
+    .sekil1{
+        margin-top: 30px;
+        height: 150px;
+        width: 214px;
+    }
+    .son{
+        position: relative;
+        top: 90px;
+        right: 200px;
+    }
+}
+@media (max-width:633px){
+    .pozision{
+        position: relative;
+        top: 130px;
+        right: 60px;
+    }
+    .esas_idareci{
+        display: block;
+           
+    }
+    .position{
+        width: 250px;
+        margin-left: 30%;
+    }
+    .Зритель{
+        margin-left: 20%;
+    }
+    .rr,.r2{
+        font-size: 10px;
+    }
+    .zz{
+        width: 70px;
+    }
+}

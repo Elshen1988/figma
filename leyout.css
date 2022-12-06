@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heder_tarix{
+    display: flex;
+    margin-top: 50px;
+}
+.esas_idareci{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+}
+.e1{
+    padding-right: 10px;
+    
+
+}
+.e2{
+    padding-right: 15px;
+    padding-left: 25px;
+
+}
+.e3{
+    padding-right: 15px;
+    padding-left: 30px;
+
+}
+.Как_смотреть{
+    width: 50%;  
+}
+h1{
+    font-size: 60px;
+}
+.Зритель{
+
+    width: 40%;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(27, 63, 117, 1);
+    margin: 30px 0px 70px 300px;
+    padding: 20px;
+}
+.r2{
+    font-size:15px ;
+margin-left: 40%;
+}
+.esas_div{
+    margin: 70px;
+    font-family: 'Roboto Slab', serif;
+}
+.hisse1{
+    display: flex;
+    justify-content: space-around;
+}
+.hisse2{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sekil1{
+    height: 200px;
+    width: 314px;
+   margin-left: 60px;
+}
+.sekil2{
+    margin-right: 60px;
+}
+.Формат{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+   
+}
+.f1{
+    width: 250px;
+}
+.f2{
+    color: rgba(30, 70, 129, 1);
+    padding-bottom: 20px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.g1{
+    width: 50%;
+}
+.h1{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.h2{
+    width: 300px;
+    
+}
+.h3{
+    
+    
+    margin: 10px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+    
+}
+.h4{
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+.j1{
+    background-color:  #EFEFEF;
+    padding-bottom: 20px;
+   
+    
+}
+.j2{
+    padding: 20px;
+   
+    width: 70%;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-left: 10%;
+}
+.j3{
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.k1{
+    padding: 10px 10px 40px 10px;
+    margin-top: 0;
+    background-color:rgba(157, 201, 200, 1);
+}
+.k2{
+    display: flex;
+}
+.k3{
+  font-size: 60px;
+line-height: 81.11px;
+padding-bottom: 40px;
+}
+.k4{
+ font-size:25px ;
+line-height:25.35px ;
+padding-bottom: 20px;
+}
+.l1{
+   padding: 50px;
+    background-color: black;
+}
+.l2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.l3{
+    color: white;
+}
+.l4{
+    margin-top: 20px;
+}
+.l5{
+    color: white;
+    font-size: 10px;
+    margin-top: 100px;
+}
+.ll{
+    margin-right: 10px;
+    
+}
+.la{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
+
