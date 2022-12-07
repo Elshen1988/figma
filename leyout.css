@@ -49,6 +49,14 @@ h1{
     font-size:15px ;
 margin-left: 40%;
 }
+.r6{
+    display: flex;
+    
+}
+.r5{
+    margin: 15px;
+}
+
 .esas_div{
     margin: 70px;
     font-family: 'Roboto Slab', serif;
@@ -78,7 +86,8 @@ margin-left: 40%;
    
 }
 .f1{
-    width: 250px;
+    margin: 10px;
+    width: 260px;
 }
 .f2{
     color: rgba(30, 70, 129, 1);
@@ -182,5 +191,7 @@ padding-bottom: 20px;
     text-decoration: none;
     color: white;
     font-size: 10px;
+}.k2 div{
+    width: 294;
 }
 
