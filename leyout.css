@@ -5,6 +5,10 @@
     margin: 0;
     padding: 0;
 }
+.esas1{
+    max-width: 1400px;
+    margin-inline: auto;
+}
 
 .heder_tarix{
     display: flex;
