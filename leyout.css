@@ -47,7 +47,7 @@ h1{
 }
 .r2{
     font-size:15px ;
-margin-left: 40%;
+padding-left: 60%;
 }
 .r6{
     display: flex;
@@ -94,7 +94,7 @@ margin-left: 40%;
     padding-bottom: 20px;
 }
 h2{
-    font-size: 30px;
+  
     margin-top: 90px;
     margin-bottom: 90px;
 }
