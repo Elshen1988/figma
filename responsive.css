@@ -25,8 +25,7 @@
 }
 @media (max-width:633px){
     .l2{
-        display: flex;
-        flex-wrap: wrap;
+        display: block;
     }
     .esas_idareci{
         display: block;
@@ -79,7 +78,7 @@
     }
 }
 @media (max-width:633px){
-    .position{
+    .pozition{
         display: block;
         width: 150px;  
     }
