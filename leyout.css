@@ -160,6 +160,7 @@ h2{
 }
 .k2{
     display: flex;
+    justify-content: space-around;
 }
 .k3{
   font-size: 60px;
@@ -172,7 +173,7 @@ line-height:25.35px ;
 padding-bottom: 20px;
 }
 .k6{
-    width: 20%;
+    
     padding: 10px;
 }
 .l1{
@@ -205,6 +206,9 @@ padding-bottom: 20px;
     font-size: 10px;
 }.k2 div{
     width: 294;
+}
+.heder_tarix p{
+    display: flex;
 }
 
 

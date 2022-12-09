@@ -20,6 +20,7 @@
         height: 150px;
         width: 214px;
     }
+ 
   
 }
 @media (max-width:633px){
@@ -31,10 +32,7 @@
         display: block;
            
     }
-    .position{
-        width: 150px;
-        margin-left: 60%;
-    }
+   
     .Зритель{
         width: 80%;
         margin-left: 10%;
@@ -69,5 +67,20 @@
     }
     .h2{
         width:100% ;
+    }
+    .g1{
+        width: 100%;
+    }
+    .l4{
+        margin-top: 0;
+    }
+    .k1{
+        padding-left: 47px;
+    }
+}
+@media (max-width:633px){
+    .position{
+        display: block;
+        width: 150px;  
     }
 }
